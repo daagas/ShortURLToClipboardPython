@@ -1,3 +1,4 @@
+#No funciona, pyshorteners y clipboard han dejado de estar dispobibles...
 import pyshorteners
 import tkinter as tk
 from tkinter import ttk
